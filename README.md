@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Angel Tomas Concha Layme
-A passionate frontend developer and UX designer from Peru
+Full Stack Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-tomas-concha-layme-5263891ab/) 
