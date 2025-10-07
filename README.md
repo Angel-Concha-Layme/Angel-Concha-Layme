@@ -1,5 +1,20 @@
-# Hola, soy Angel Tomas Concha Layme 
+# Hey there, I'm [Angel Tomas Concha Layme](https://www.linkedin.com/in/angel-tomas-concha-layme/)
 ## Full-Stack Developer
+
+Software Engineer building scalable solutions for healthcare, education, legal, and business services.  
+I focus on designing maintainable systems, improving development processes, and contributing to clear, reliable software delivery.
+
+---
+
+### 🧠 About Me
+- 💻 Strong in **Java + Spring Boot**, **React/Next.js**, and **TypeScript**.  
+- ☁️ Experienced in **multi-tenant architectures**, **cloud integrations**, and **intelligent automation**.  
+- 🤝 Open to **remote roles**, **freelance collaborations**, and **impact-driven projects**.  
+- 🌎 Based in **Arequipa, Peru** — fluent in **English** and **Spanish**.  
+- 📫 Reach me at **conchalaymeangeltomas@gmail.com**
+
+---
+
 
 ## Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
